@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwipeDeck2">
+        <attr name="max_visible" format="integer"/>
+        <attr name="opacity_end" format="float"/>
+        <attr name="rotation_degrees" format="float"/>
+        <attr name="card_spacing" format="dimension"/>
+        <attr name="render_above" format="boolean"/>
+        <attr name="swipe_enabled" format="boolean"/>
+        <attr name="preview_layout" format="reference"/>
+    </declare-styleable>
+</resources>
