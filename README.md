@@ -1,3 +1,6 @@
+[![](https://jitpack.io/v/pao11/SwipeDeckRelease.svg)](https://jitpack.io/#pao11/SwipeDeckRelease)
+[![Travis](https://img.shields.io/badge/Gradle-2.3.1-brightgreen.svg)]()
+
 # SwipeDeck
 ## A Tinder style Swipeable deck view for Android
 
